@@ -114,7 +114,7 @@ Temporary Items
  
 # Working folder and file
 coverage
-*.sqlite3
+#*.sqlite3
 
 # Local bat file
 *.bat
